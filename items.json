@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+        "name": "item 1",
+        "active": 1
+        },
+
+        {
+        "name": "item 2",
+        "active": 1
+        },
+
+        {
+        "name": "item 3",
+        "active": 0
+        },
+
+        {
+        "name": "item 4",
+        "active": 0
+        },
+
+        {
+        "name": "item 5",
+        "active": 1
+        }
+    ]
+}
