@@ -16,6 +16,7 @@
 		879A4A6521A5E8D400EA9573 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A4A6421A5E8D400EA9573 /* DataModel.swift */; };
 		879A4A6A21A5E96D00EA9573 /* DataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A4A6921A5E96D00EA9573 /* DataViewModel.swift */; };
 		879A4A6C21A5E9DD00EA9573 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A4A6B21A5E9DD00EA9573 /* ServiceManager.swift */; };
+		879A4A6F21A5FF3700EA9573 /* InfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A4A6D21A5FF3700EA9573 /* InfoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		879A4A6421A5E8D400EA9573 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		879A4A6921A5E96D00EA9573 /* DataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewModel.swift; sourceTree = "<group>"; };
 		879A4A6B21A5E9DD00EA9573 /* ServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
+		879A4A6D21A5FF3700EA9573 /* InfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				135AE34B21A5B68000D14E95 /* ViewController.swift */,
+				879A4A6D21A5FF3700EA9573 /* InfoTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				879A4A6A21A5E96D00EA9573 /* DataViewModel.swift in Sources */,
 				135AE34C21A5B68000D14E95 /* ViewController.swift in Sources */,
 				135AE34A21A5B68000D14E95 /* AppDelegate.swift in Sources */,
+				879A4A6F21A5FF3700EA9573 /* InfoTableViewCell.swift in Sources */,
 				879A4A6521A5E8D400EA9573 /* DataModel.swift in Sources */,
 				879A4A6C21A5E9DD00EA9573 /* ServiceManager.swift in Sources */,
 			);
